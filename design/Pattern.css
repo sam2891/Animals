@@ -1,0 +1,42 @@
+h3{
+   font-family:'Times New Roman', Times, serif;
+   color:burlywood;
+   background-color:red;
+   font-size: medium;
+   list-style: none;
+   
+  }
+body{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:aquamarine;
+   padding:0%;
+   position:right;   
+}
+nav ul {
+   margin:0%;
+   padding: 0%;
+   float:right;
+   list-style: none;
+
+}
+
+nav li{
+   display:inline-block;
+   margin-left: 50px;
+   
+}
+.container{
+  float:right;
+  margin:0%;
+  padding:0%;
+  
+  
+   
+
+
+
+
+
+
+}
+       
